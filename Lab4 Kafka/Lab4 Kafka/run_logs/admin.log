@@ -1,0 +1,4 @@
+%3|1790877377.496|FAIL|rdkafka#producer-1| [thrd:localhost:9092/bootstrap]: localhost:9092/bootstrap: Connect to ipv6#[::1]:9092 failed: Unknown error (after 2054ms in state CONNECT)
+%3|1790877379.569|FAIL|rdkafka#producer-1| [thrd:localhost:9092/bootstrap]: localhost:9092/bootstrap: Connect to ipv6#[::1]:9092 failed: Unknown error (after 2040ms in state CONNECT, 1 identical error(s) suppressed)
+Topic already exists: book_topic
+book_topic
